@@ -7,7 +7,7 @@ const keepAlive = require("./server");
 client.on("ready", () => {
 
     console.log("Bot online")
-    client.user.setActivity("Helping dark members")
+    client.user.setActivity("Thanks @Demon Slayer#6441") //if you change this without permission you can get ban
 })
 
 
